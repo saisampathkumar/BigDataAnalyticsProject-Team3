@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Hiresh\\Desktop\\UMKC\\BDAA\\ICP\\ICP5\\fullcode\\Tutorial 5 Source Code\\ClassificationCNN\\Caltech100-3Category-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "C:\\Users\\Hiresh\\Desktop\\UMKC\\BDAA\\ICP\\ICP5\\fullcode\\Tutorial 5 Source Code\\ClassificationCNN\\Caltech100-3Category-0.001-2conv-basic.model"
